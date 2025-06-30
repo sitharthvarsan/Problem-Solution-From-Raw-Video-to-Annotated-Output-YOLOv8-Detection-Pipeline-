@@ -1,5 +1,3 @@
-Here’s a concise **GitHub README template** for your YOLOv8 video detection project, covering all key concepts in a minimal format:
-
 ---
 
 # **YOLOv8 Video Object Detection**  
